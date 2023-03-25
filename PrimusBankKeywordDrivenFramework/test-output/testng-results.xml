@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5884" started-at="2016-12-28T07:11:29Z" finished-at="2016-12-28T07:11:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5884" started-at="2016-12-28T07:11:29Z" finished-at="2016-12-28T07:11:34Z">
+      <class name="com.primusbank.tests.PrimusBankKeywordDrivenTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.primusbank.tests.PrimusBankKeywordDrivenTest@3ba99c51]" name="launchApp" is-config="true" duration-ms="469" started-at="2016-12-28T12:41:28Z" finished-at="2016-12-28T12:41:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="keywordDrivenTest()[pri:0, instance:com.primusbank.tests.PrimusBankKeywordDrivenTest@3ba99c51]" name="keywordDrivenTest" duration-ms="5866" started-at="2016-12-28T12:41:29Z" finished-at="2016-12-28T12:41:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keywordDrivenTest -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.primusbank.tests.PrimusBankKeywordDrivenTest@3ba99c51]" name="closeApp" is-config="true" duration-ms="10" started-at="2016-12-28T12:41:34Z" finished-at="2016-12-28T12:41:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.primusbank.tests.PrimusBankKeywordDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
